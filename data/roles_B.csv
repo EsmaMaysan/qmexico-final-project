@@ -1,0 +1,5 @@
+b_id,b_nombre,req_python,req_quantum,req_optimization,req_writing
+R1,Dataset justification and README,2,1,2,5
+R2,QUBO formulation,3,2,5,3
+R3,Classical validation code,5,1,4,2
+R4,QAOA local implementation,4,5,3,2

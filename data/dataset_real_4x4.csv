@@ -1,0 +1,17 @@
+a_id,a_nombre,b_id,b_nombre,python,quantum,optimization,writing,req_python,req_quantum,req_optimization,req_writing,skill_cosine,interest_1_5,availability_1_5,score
+P1,Profile A: coding-oriented,R1,Dataset justification and README,5,3,4,2,2,1,2,5,0.7235,3,3,68.64
+P1,Profile A: coding-oriented,R2,QUBO formulation,5,3,4,2,3,2,5,3,0.9329,4,3,87.31
+P1,Profile A: coding-oriented,R3,Classical validation code,5,3,4,2,5,1,4,2,0.9631,5,3,93.42
+P1,Profile A: coding-oriented,R4,QAOA local implementation,5,3,4,2,4,5,3,2,0.9444,3,3,84.11
+P2,Profile B: quantum-oriented,R1,Dataset justification and README,3,5,4,3,2,1,2,5,0.7591,3,4,73.14
+P2,Profile B: quantum-oriented,R2,QUBO formulation,3,5,4,3,3,2,5,3,0.9115,4,4,87.81
+P2,Profile B: quantum-oriented,R3,Classical validation code,3,5,4,3,5,1,4,2,0.8062,4,4,80.43
+P2,Profile B: quantum-oriented,R4,QAOA local implementation,3,5,4,3,4,5,3,2,0.9744,5,4,96.21
+P3,Profile C: optimization/writing,R1,Dataset justification and README,2,2,5,5,2,1,2,5,0.9233,5,5,94.63
+P3,Profile C: optimization/writing,R2,QUBO formulation,2,2,5,5,3,2,5,3,0.9577,5,5,97.04
+P3,Profile C: optimization/writing,R3,Classical validation code,2,2,5,5,5,1,4,2,0.8131,3,5,78.92
+P3,Profile C: optimization/writing,R4,QAOA local implementation,2,2,5,5,4,5,3,2,0.7683,2,5,71.78
+P4,Profile D: reporting/balanced,R1,Dataset justification and README,4,3,3,5,2,1,2,5,0.9377,5,4,93.64
+P4,Profile D: reporting/balanced,R2,QUBO formulation,4,3,3,5,3,2,5,3,0.9115,3,4,83.81
+P4,Profile D: reporting/balanced,R3,Classical validation code,4,3,3,5,5,1,4,2,0.8638,4,4,84.47
+P4,Profile D: reporting/balanced,R4,QAOA local implementation,4,3,3,5,4,5,3,2,0.8858,4,4,86.01
